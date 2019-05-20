@@ -1,8 +1,8 @@
 # de.lkraemer.nemmet
 
-this projects bases on the Nemmet project of deanebarker at https://github.com/deanebarker/Nemmet
-this library is ported from the .NET 4.5.2 (the old project from deanebarker) to a .NET Standard 2.0 library.
-you can use this library in all .NET projects like .NET Core, .NET Legacy, Xamarin, etc.
+this projects bases on the Nemmet project of deanebarker at https://github.com/deanebarker/Nemmet <br />
+this library is ported from the .NET 4.5.2 (the old project from deanebarker) to a .NET Standard 2.0 library. <br />
+you can use this library in all .NET projects like .NET Core, .NET Legacy, Xamarin, etc. <br />
 
 ## installation
 
