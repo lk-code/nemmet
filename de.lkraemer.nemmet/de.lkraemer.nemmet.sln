@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "de.lkraemer.nemmet", "de.lkraemer.nemmet\de.lkraemer.nemmet.csproj", "{51570683-CD03-4649-85B9-BA3FECA8ED00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "de.lkraemer.nemmet.tests", "de.lkraemer.nemmet.tests\de.lkraemer.nemmet.tests.csproj", "{EB1230A7-C0C1-4A5D-905A-171D3B517647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51570683-CD03-4649-85B9-BA3FECA8ED00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51570683-CD03-4649-85B9-BA3FECA8ED00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51570683-CD03-4649-85B9-BA3FECA8ED00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51570683-CD03-4649-85B9-BA3FECA8ED00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1230A7-C0C1-4A5D-905A-171D3B517647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1230A7-C0C1-4A5D-905A-171D3B517647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1230A7-C0C1-4A5D-905A-171D3B517647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1230A7-C0C1-4A5D-905A-171D3B517647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1A28EFD-4823-4CE1-ACA2-22B8C5F596F4}
+	EndGlobalSection
+EndGlobal

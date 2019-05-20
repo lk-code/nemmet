@@ -1,10 +1,12 @@
-# Nemmet
+# de.lkraemer.nemmet
 
-Nemmet is an homage to [Emmet](http://emmet.io/) (Nemmet = "Not Emmet"...get it?), the HTML expansion language.
+this projects bases on the Nemmet project of deanebarker at https://github.com/deanebarker/Nemmet
 
-I wanted something in (1) a single file, (2) pure C#, and (3) source that I could debug through.  It will never be as full-featured as Emmet. I'm hoping for maybe 75% on a good day.
+## installation
 
-## How to Use
+install the lib from nuget: https://www.nuget.org/packages/de.lkraemer.nemmet
+
+## usage
 
     var code = "#my-panel.panel>.heading{Title}+.content{Content}+.footer";
 
@@ -27,7 +29,7 @@ Result:
       <div class="footer"></div>
     </div>
 
-## What Works
+## what works
 
 Read the [Emmet syntax guide](http://docs.emmet.io/abbreviations/syntax/) for the basics.  Here the subset that Nemmet supports.
 
@@ -42,8 +44,14 @@ Read the [Emmet syntax guide](http://docs.emmet.io/abbreviations/syntax/) for th
 * Content `div{Some text}`
 * Default tag naming (though, the defaults need more definition)
 
-## What Doesn't Work
+## what doesn't work
 
 * Repeating elements and auto-numbering (why would you need this at runtime?)
 * Parentheticals/grouping (though, this is likely not far off -- I have a theory for it)
 * Style abbreviations (not hard, but low on the priority list)
+
+## Nemmet
+
+Nemmet is an homage to [Emmet](http://emmet.io/) (Nemmet = "Not Emmet"...get it?), the HTML expansion language.
+
+I wanted something in (1) a single file, (2) pure C#, and (3) source that I could debug through.  It will never be as full-featured as Emmet. I'm hoping for maybe 75% on a good day.

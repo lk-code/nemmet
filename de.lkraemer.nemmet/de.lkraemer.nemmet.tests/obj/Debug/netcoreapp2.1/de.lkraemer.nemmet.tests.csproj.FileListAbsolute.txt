@@ -1,0 +1,17 @@
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\bin\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.deps.json
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\bin\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.runtimeconfig.json
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\bin\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.runtimeconfig.dev.json
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\bin\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\bin\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.pdb
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\bin\Debug\netcoreapp2.1\de.lkraemer.nemmet.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\bin\Debug\netcoreapp2.1\de.lkraemer.nemmet.pdb
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\obj\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.csprojAssemblyReference.cache
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\obj\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.csproj.CoreCompileInputs.cache
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\obj\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.AssemblyInfoInputs.cache
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\obj\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.AssemblyInfo.cs
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\obj\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.csproj.CopyComplete
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\obj\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet.tests\obj\Debug\netcoreapp2.1\de.lkraemer.nemmet.tests.pdb

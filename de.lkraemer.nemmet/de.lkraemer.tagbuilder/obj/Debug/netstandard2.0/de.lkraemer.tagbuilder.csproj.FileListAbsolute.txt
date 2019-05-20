@@ -1,0 +1,9 @@
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder\bin\Debug\netstandard2.0\de.lkraemer.tagbuilder.deps.json
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder\bin\Debug\netstandard2.0\de.lkraemer.tagbuilder.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder\bin\Debug\netstandard2.0\de.lkraemer.tagbuilder.pdb
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder\obj\Debug\netstandard2.0\de.lkraemer.tagbuilder.csproj.CoreCompileInputs.cache
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder\obj\Debug\netstandard2.0\de.lkraemer.tagbuilder.AssemblyInfoInputs.cache
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder\obj\Debug\netstandard2.0\de.lkraemer.tagbuilder.AssemblyInfo.cs
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder\obj\Debug\netstandard2.0\de.lkraemer.tagbuilder.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder\obj\Debug\netstandard2.0\de.lkraemer.tagbuilder.pdb
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder\obj\Debug\netstandard2.0\de.lkraemer.tagbuilder.csprojAssemblyReference.cache

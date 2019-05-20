@@ -1,0 +1,17 @@
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\bin\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.deps.json
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\bin\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.runtimeconfig.json
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\bin\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.runtimeconfig.dev.json
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\bin\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\bin\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.pdb
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\bin\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\bin\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.pdb
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\obj\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.csprojAssemblyReference.cache
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\obj\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.csproj.CoreCompileInputs.cache
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\obj\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.AssemblyInfoInputs.cache
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\obj\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.AssemblyInfo.cs
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\obj\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.csproj.CopyComplete
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\obj\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.tagbuilder.tests\obj\Debug\netcoreapp2.1\de.lkraemer.tagbuilder.tests.pdb

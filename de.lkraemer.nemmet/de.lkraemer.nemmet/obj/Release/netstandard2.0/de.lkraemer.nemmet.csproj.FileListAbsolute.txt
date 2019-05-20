@@ -1,0 +1,9 @@
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet\bin\Release\netstandard2.0\de.lkraemer.nemmet.deps.json
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet\bin\Release\netstandard2.0\de.lkraemer.nemmet.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet\bin\Release\netstandard2.0\de.lkraemer.nemmet.pdb
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet\obj\Release\netstandard2.0\de.lkraemer.nemmet.csprojAssemblyReference.cache
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet\obj\Release\netstandard2.0\de.lkraemer.nemmet.csproj.CoreCompileInputs.cache
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet\obj\Release\netstandard2.0\de.lkraemer.nemmet.AssemblyInfoInputs.cache
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet\obj\Release\netstandard2.0\de.lkraemer.nemmet.AssemblyInfo.cs
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet\obj\Release\netstandard2.0\de.lkraemer.nemmet.dll
+C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet\obj\Release\netstandard2.0\de.lkraemer.nemmet.pdb
