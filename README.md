@@ -4,6 +4,12 @@ this projects bases on the Nemmet project of deanebarker at https://github.com/d
 this library is ported from the .NET 4.5.2 (the old project from deanebarker) to a .NET Standard 2.0 library. <br />
 you can use this library in all .NET projects like .NET Core, .NET Legacy, Xamarin, etc. <br />
 
+[![Downloads](https://img.shields.io/nuget/dt/de.lkraemer.nemmet.svg?style=flat-square)](http://www.nuget.org/packages/de.lkraemer.nemmet/)
+
+[![NuGet](https://img.shields.io/nuget/v/de.lkraemer.nemmet.svg?style=flat-square)](http://nuget.org/packages/de.lkraemer.nemmet)
+
+[![License](https://img.shields.io/github/license/lk-code/nemmet.svg?style=flat-square)](https://github.com/lk-code/nemmet/blob/master/LICENSE)
+
 ## installation
 
 install the lib from nuget: https://www.nuget.org/packages/de.lkraemer.nemmet
