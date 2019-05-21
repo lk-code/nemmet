@@ -41,7 +41,7 @@ namespace de.lkraemer.nemmet
         {
             ResetToDefaults();
             DefaultTag = "div";
-            DefaultTagMap = new Dictionary<string, string>()
+            DefaultTagMap = new Dictionary<string, string>
             {
                 { "table", "tr" },
                 { "tr", "td" },

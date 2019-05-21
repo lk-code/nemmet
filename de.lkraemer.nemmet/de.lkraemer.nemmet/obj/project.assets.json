@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
-      "de.lkraemer.tagbuilder/1.0.0": {
+      "de.lkraemer.tagbuilder/1.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/de.lkraemer.tagbuilder.dll": {}
@@ -38,15 +38,15 @@
     }
   },
   "libraries": {
-    "de.lkraemer.tagbuilder/1.0.0": {
-      "sha512": "SyH/6+gSh4CELf3tyCC+MlpZmWRukOy+kOlqsXSZ44ZadIbiywOAjpw9cBT7FGK5NqObc9KTq8aO62tiQuARBQ==",
+    "de.lkraemer.tagbuilder/1.0.1": {
+      "sha512": "OxRs8+ricMZ3beSQ6f6Gun0VOzOfBWnnLZnyxp1gp/QLDFqDcGsFmiswitIUrl/FInolDQTt7bgABLIMn3gboA==",
       "type": "package",
-      "path": "de.lkraemer.tagbuilder/1.0.0",
+      "path": "de.lkraemer.tagbuilder/1.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE",
-        "de.lkraemer.tagbuilder.1.0.0.nupkg.sha512",
+        "de.lkraemer.tagbuilder.1.0.1.nupkg.sha512",
         "de.lkraemer.tagbuilder.nuspec",
         "lib/netstandard2.0/de.lkraemer.tagbuilder.dll"
       ]
@@ -198,7 +198,7 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "de.lkraemer.tagbuilder >= 1.0.0"
+      "de.lkraemer.tagbuilder >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -207,7 +207,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Repos\\nemmet\\de.lkraemer.nemmet\\de.lkraemer.nemmet\\de.lkraemer.nemmet.csproj",
       "projectName": "de.lkraemer.nemmet",
@@ -253,7 +253,7 @@
           },
           "de.lkraemer.tagbuilder": {
             "target": "Package",
-            "version": "[1.0.0, )"
+            "version": "[1.0.1, )"
           }
         },
         "imports": [

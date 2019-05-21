@@ -1,26 +1,26 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "f385ef298a0dc20a503ee4b43205e2b58340ceb2"
+    "signature": "6574824b68adb9ca8d781fa555b60d8c09d5a237"
   },
   "compilationOptions": {},
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "de.lkraemer.nemmet/1.0.0": {
+      "de.lkraemer.nemmet/1.0.1": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
-          "de.lkraemer.tagbuilder": "1.0.0"
+          "de.lkraemer.tagbuilder": "1.0.1"
         },
         "runtime": {
           "de.lkraemer.nemmet.dll": {}
         }
       },
-      "de.lkraemer.tagbuilder/1.0.0": {
+      "de.lkraemer.tagbuilder/1.0.1": {
         "runtime": {
           "lib/netstandard2.0/de.lkraemer.tagbuilder.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
           }
         }
       },
@@ -33,17 +33,17 @@
     }
   },
   "libraries": {
-    "de.lkraemer.nemmet/1.0.0": {
+    "de.lkraemer.nemmet/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "de.lkraemer.tagbuilder/1.0.0": {
+    "de.lkraemer.tagbuilder/1.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-SyH/6+gSh4CELf3tyCC+MlpZmWRukOy+kOlqsXSZ44ZadIbiywOAjpw9cBT7FGK5NqObc9KTq8aO62tiQuARBQ==",
-      "path": "de.lkraemer.tagbuilder/1.0.0",
-      "hashPath": "de.lkraemer.tagbuilder.1.0.0.nupkg.sha512"
+      "sha512": "sha512-OxRs8+ricMZ3beSQ6f6Gun0VOzOfBWnnLZnyxp1gp/QLDFqDcGsFmiswitIUrl/FInolDQTt7bgABLIMn3gboA==",
+      "path": "de.lkraemer.tagbuilder/1.0.1",
+      "hashPath": "de.lkraemer.tagbuilder.1.0.1.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

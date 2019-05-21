@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "de.lkraemer.tagbuilder/1.0.0": {
+      "de.lkraemer.tagbuilder/1.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/de.lkraemer.tagbuilder.dll": {}
@@ -1627,11 +1627,11 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "de.lkraemer.nemmet/1.0.0": {
+      "de.lkraemer.nemmet/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "de.lkraemer.tagbuilder": "1.0.0"
+          "de.lkraemer.tagbuilder": "1.0.1"
         },
         "compile": {
           "bin/placeholder/de.lkraemer.nemmet.dll": {}
@@ -1643,15 +1643,15 @@
     }
   },
   "libraries": {
-    "de.lkraemer.tagbuilder/1.0.0": {
-      "sha512": "SyH/6+gSh4CELf3tyCC+MlpZmWRukOy+kOlqsXSZ44ZadIbiywOAjpw9cBT7FGK5NqObc9KTq8aO62tiQuARBQ==",
+    "de.lkraemer.tagbuilder/1.0.1": {
+      "sha512": "OxRs8+ricMZ3beSQ6f6Gun0VOzOfBWnnLZnyxp1gp/QLDFqDcGsFmiswitIUrl/FInolDQTt7bgABLIMn3gboA==",
       "type": "package",
-      "path": "de.lkraemer.tagbuilder/1.0.0",
+      "path": "de.lkraemer.tagbuilder/1.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE",
-        "de.lkraemer.tagbuilder.1.0.0.nupkg.sha512",
+        "de.lkraemer.tagbuilder.1.0.1.nupkg.sha512",
         "de.lkraemer.tagbuilder.nuspec",
         "lib/netstandard2.0/de.lkraemer.tagbuilder.dll"
       ]
@@ -5837,7 +5837,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "de.lkraemer.nemmet/1.0.0": {
+    "de.lkraemer.nemmet/1.0.1": {
       "type": "project",
       "path": "../de.lkraemer.nemmet/de.lkraemer.nemmet.csproj",
       "msbuildProject": "../de.lkraemer.nemmet/de.lkraemer.nemmet.csproj"
@@ -5849,7 +5849,7 @@
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
-      "de.lkraemer.nemmet >= 1.0.0"
+      "de.lkraemer.nemmet >= 1.0.1"
     ]
   },
   "packageFolders": {

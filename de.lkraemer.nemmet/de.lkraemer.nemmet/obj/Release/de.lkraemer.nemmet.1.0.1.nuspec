@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>de.lkraemer.nemmet</id>
+    <version>1.0.1</version>
+    <authors>lk-code, deanebarker</authors>
+    <owners>lk-code, deanebarker</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/lk-code/nemmet/wiki</projectUrl>
+    <description>a simple library to generate a html string from a emmet string</description>
+    <repository type="git" url="https://github.com/lk-code/nemmet" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="de.lkraemer.tagbuilder" version="1.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Repos\nemmet\de.lkraemer.nemmet\de.lkraemer.nemmet\bin\Release\netstandard2.0\de.lkraemer.nemmet.dll" target="lib\netstandard2.0\de.lkraemer.nemmet.dll" />
+    <file src="C:\Repos\net-tag-builder\LICENSE" target="LICENSE" />
+  </files>
+</package>

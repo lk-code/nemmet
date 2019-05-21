@@ -153,7 +153,7 @@ namespace de.lkraemer.nemmet
             Name = token.GetBefore(NONWORD_PATTERN);
             if (NemmetParsingOptions.AlwaysLowerCaseTagName)
             {
-                Name = Name.ToLower();
+                Name = Name.ToLowerInvariant();
             }
 
             // Tag content
