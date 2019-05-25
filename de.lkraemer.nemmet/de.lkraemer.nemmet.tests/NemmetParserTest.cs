@@ -43,5 +43,24 @@ namespace de.lkraemer.nemmet.tests
             Assert.IsFalse(html.Contains("id=\"")); // the element must not contain an id
             Assert.IsTrue(html.Contains("class=\"" + class1Value + " " + class2Value + "\"")); // the element must contain a class
         }
+
+        /// <summary>
+        /// tests to generate a input with a class
+        /// </summary>
+        [TestMethod]
+        public void TestGetHtmlWithInputField()
+        {
+            string tag = "input";
+            string class1Value = "is--link";
+
+            string nemmetCode = string.Format("{0}.{1}", tag, class1Value);
+            string html = NemmetParser.GetHtml(nemmetCode);
+
+            Assert.IsTrue(html.Contains("<" + tag)); // the element must contains the start tag
+            Assert.IsTrue(html.Contains("/>")); // the element must contains the end tag for input-fields
+            Assert.IsFalse(html.Contains("</" + tag + ">")); // the element must not contains the explicit end tag
+            Assert.IsFalse(html.Contains("id=\"")); // the element must not contain an id
+            Assert.IsTrue(html.Contains("class=\"" + class1Value + "\"")); // the element must contain the class
+        }
     }
 }
