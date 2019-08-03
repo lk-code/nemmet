@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -16,14 +16,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="de.lkraemer.tagbuilder" Version="1.0.2" />
+    <None Remove="LICENSE" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\net-tag-builder\LICENSE">
-      <Pack>True</Pack>
-      <PackagePath></PackagePath>
-    </None>
+    <Compile Include="LICENSE" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="de.lkraemer.tagbuilder" Version="1.0.2" />
   </ItemGroup>
 
 </Project>
